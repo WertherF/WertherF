@@ -3,9 +3,6 @@
 <p>My 08 years of working experience as an intern and engineer enriched me with important soft skills, such as understanding clients' needs, process and management logics, collaborating with my peers and developing solutions alongside my team.
 The dream and will never left my heart and mind, and now I have decided to fully pursue the endeavor of becoming a programmer.</p>
 
-(https://emojipedia-us.s3.dualstack.us-west-1.amazonaws.com/thumbs/120/toss-face/331/flag-brazil_1f1e7-1f1f7.png)
-
-
 <!--
 **WertherF/WertherF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
