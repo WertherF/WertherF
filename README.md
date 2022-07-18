@@ -1,6 +1,7 @@
-Since I was a kid I always had an interest in computers and technology, but my official education led me elsewhere. Nevertheless, with a major in civil Engineering and MBA in Project Management, I have always developed small softwares and complex tools using Excel in order to assist the companies I have worked at.
-My 08 years of working experience as an intern and engineer enriched me with important soft skills, such as understanding clients' needs, process and management logics, collaborating with my peers and developing solutions alongside my team.
-The dream and will never left my heart and mind, and now I have decided to fully pursue the endeavor of becoming a programmer.
+  Hey there! 🤓
+<p>Since I was a kid I always had an interest in computers and technology, but my official education led me elsewhere. Nevertheless, with a major in civil Engineering and MBA in Project Management, I have always developed small softwares and complex tools using Excel in order to assist the companies I have worked at.</p>
+<p>My 08 years of working experience as an intern and engineer enriched me with important soft skills, such as understanding clients' needs, process and management logics, collaborating with my peers and developing solutions alongside my team.
+The dream and will never left my heart and mind, and now I have decided to fully pursue the endeavor of becoming a programmer.</p>
 
 ##
 
