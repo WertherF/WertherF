@@ -24,6 +24,7 @@ Here are some ideas to get you started:
   <img height="150em" src="https://github-readme-stats.vercel.app/api?username=wertherf&show_icons=true&theme=github_dark&include_all_commits=true&count_private=true"/>
   <img height="150em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=wertherf&layout=compact&langs_count=7&theme=github_dark"/>
 </div>
+
   
   ## Stack
 ![JavaScript](https://img.shields.io/badge/JavaScript-323330?style=for-the-badge&logo=javascript&logoColor=F7DF1E)
