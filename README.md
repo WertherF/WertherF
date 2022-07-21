@@ -1,7 +1,8 @@
   ## About me🤓
-<p>Bachelor in Civil Engineering and MBA in Project Management, I have always developed small software and complex tools using Excel, those were essential to optimize processes and data flow, as well as minimize errors when getting tasks done in the companies I have worked at.</p>
+<p>Bachelor in Civil Engineering and MBA in Project Management, I have always developed small software and high complexity tools using Excel, those were essential to optimize processes and data flow, as well as minimize errors when getting tasks done in the companies I have worked at.</p>
 <p>My 08 years of working experience in engineering enriched me with important soft skills, such as understanding clients' needs, process and management logics, collaborating with my peers and developing solutions alongside my team.</p>
 <p>I have always had great interest in computers and tech and, although my formal education led my elsewhere, I am now searching for an opportunity to enter the job market to work with and improve my skills as a developer.</p>
+
 
 <!--
 **WertherF/WertherF** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
